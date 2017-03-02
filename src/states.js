@@ -9,3 +9,4 @@
 export {default as Boot} from './states/Boot';
 export {default as Preloader} from './states/Preloader';
 export {default as Title} from './states/Title';
+export {default as CharacterCreation} from './states/CharacterCreation';
